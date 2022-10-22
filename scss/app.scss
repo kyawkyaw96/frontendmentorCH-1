@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
+
+
+$font-family-sans-serif:'Inter', sans-serif;
+$navbar-light-hover-color:  hsl(5, 85%, 63%);
+$navbar-nav-link-padding-x:1rem;
+$btn-font-size :.8rem;
+
+
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+.color-orange{
+    color: hsl(35, 77%, 62%);
+}
+.off_white{
+    color:  hsl(36, 100%, 99%);
+}
+.grayish-blue{
+    color: hsl(233, 8%, 79%);
+}.darkgrayish-blue{
+    color:   hsl(236, 13%, 42%);
+}
+.vd-blue{
+    background-color: hsl(240, 100%, 5%) ;
+}
+.hover-orange{
+    color: white;
+}
+.hover-orange:hover{
+    color:hsl(35, 77%, 62%) ;
+}
+.fs-15{
+    font-size: 15px;
+}
+.hover-red{
+    color: rgb(0, 0, 0);
+}
+.hover-red:hover{
+    color:hsl(5, 85%, 63%) ;
+}
