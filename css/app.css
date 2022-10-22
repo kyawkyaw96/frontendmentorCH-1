@@ -10812,4 +10812,11 @@ textarea.form-control-lg {
   color: hsl(5deg, 85%, 63%);
 }
 
+.button {
+  padding: 10px 20px;
+  background-color: hsl(240deg, 100%, 5%);
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+}
+
 /*# sourceMappingURL=app.css.map */

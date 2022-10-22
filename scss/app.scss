@@ -8,6 +8,7 @@ $btn-font-size :.8rem;
 
 
 
+
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
 .color-orange{
     color: hsl(35, 77%, 62%);
@@ -38,3 +39,11 @@ $btn-font-size :.8rem;
 .hover-red:hover{
     color:hsl(5, 85%, 63%) ;
 }
+.button{
+    padding:  10px 20px;
+    background-color:hsl(240, 100%, 5%); 
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    
+}
+ 
